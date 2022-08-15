@@ -43,3 +43,9 @@ https://www.printables.com/model/123636-usb-holder
 
 Honeycomb storage wall
 https://www.printables.com/model/152592-honeycomb-storage-wall/files
+
+Modern spiral planter
+https://www.printables.com/model/225251-modern-spiral-planter
+
+HexScraper
+https://www.printables.com/model/122894-hexscraper-printbed-scraper
